@@ -40,8 +40,8 @@ Applying Dimensional Modeling principles.
 Identifying Dimensions and Measures.
 Validating relationships and filter directions.
 Building a model optimized for interactive reporting.
-🧮 3. DAX Measures & Calculations
 
+🧮 3. DAX Measures & Calculations
 Custom DAX (Data Analysis Expressions) measures were created to analyze business performance.
 
 Key Measures
@@ -76,6 +76,7 @@ Sales by Customer Segment
 Shipping Method Analysis
 Interactive Slicers
 Visual-Level Filters
+
 📌 Page 2 — Deep Dive Analytics
 
 Provides detailed analysis of products, profitability, discounts, and financial performance.
