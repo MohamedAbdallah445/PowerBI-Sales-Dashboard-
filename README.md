@@ -28,6 +28,8 @@ Handling invalid values and errors.
 Assigning appropriate data types.
 Preparing date fields for analysis.
 Transforming and organizing the data for modeling.
+
+
 🏗️ 2. Data Modeling
 
 A structured Data Model was created to support efficient analysis and accurate reporting.
